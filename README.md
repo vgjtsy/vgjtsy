@@ -1,6 +1,6 @@
 <h1 align="center">Hello world! 👋 </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Крипто-трейдер+%7C+Студент+%7C+Разработчик" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=PYTHON+%7C+DAO+%7C+VIBE" alt="Typing SVG" />
 </p>
 
 ---
@@ -16,6 +16,9 @@
 ---
 
 ## 📈 Статистика GitHub
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=vgjtsy.vgjtsy" alt="Visitors" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vgjtsy&show_icons=true&theme=radical" alt="GitHub Stats" />
